@@ -67,7 +67,4 @@ This project is open source and available under the MIT License.
 
 **Made with ❤️ for anyone navigating loss**
 
-![Uploading Screenshot 2026-08-20 at 3.31.33 PM.png…]()
-
-
 
