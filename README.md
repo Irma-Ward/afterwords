@@ -66,3 +66,4 @@ This project is open source and available under the MIT License.
 
 **Made with ❤️ for anyone navigating loss**
 
+![GriefGuide Screenshot](screenshot.png)
