@@ -63,6 +63,9 @@ This is a prototype built during a bootcamp. If you'd like to contribute or have
 ## 📄 License
 This project is open source and available under the MIT License.
 
+## 📸 Screenshot
+
+![GriefGuide App Screenshot](images/screenshot.png)
 ---
 
 **Made with ❤️ for anyone navigating loss**
